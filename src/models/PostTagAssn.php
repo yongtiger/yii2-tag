@@ -31,7 +31,7 @@ class PostTagAssn extends ActiveRecord
      */
     public static function tableName()
     {
-        return Module::instance()->articlePostTagTableName;
+        return Module::instance()->articlePostTagAssnTableName;
     }
 
     /**

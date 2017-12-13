@@ -1,4 +1,4 @@
-# yii2-tag v0.0.0 (initial commit)
+# yii2-tag v0.0.1 (ADD# TagBehavior)
 
 [![Latest Stable Version](https://poser.pugx.org/yongtiger/yii2-tag/v/stable)](https://packagist.org/packages/yongtiger/yii2-tag)
 [![Total Downloads](https://poser.pugx.org/yongtiger/yii2-tag/downloads)](https://packagist.org/packages/yongtiger/yii2-tag) 

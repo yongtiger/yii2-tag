@@ -34,12 +34,12 @@ class Module extends \yii\base\Module
     /**
      * @var string table name
      */
-    public $articlePostTagTableName = '{{%article_post_tag_assn}}';
+    public $articlePostTagAssnTableName = '{{%article_post_tag_assn}}';
 
     /**
      * @var string Post model class name
      */
-    public $postModelClass = 'yongtiger\article\models\Post';
+    public $postModelClass;
 
     /**
      * @return static
